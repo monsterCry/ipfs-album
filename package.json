@@ -13,8 +13,11 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "element-ui": "^2.15.8",
+    "jquery": "^3.6.0",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vue-strap": "^1.1.40"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
